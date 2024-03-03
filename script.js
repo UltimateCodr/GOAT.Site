@@ -391,7 +391,7 @@ function renderGates(){
 
 function renderBackground(){
 	c.save();
-	c.fillStyle = "#66aa66";
+	c.fillStyle = "#DBF1FD";
 	c.fillRect(0,0,canvas.width,canvas.height);
 	c.strokeStyle = "rgba(255,255,255,0.6)";
 	c.beginPath();
